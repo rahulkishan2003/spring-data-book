@@ -61,7 +61,7 @@
 			<version>${spring.version}</version>
 		</dependency>
 
-		<!-- Logging -->
+		<!-- Logging purpuses -->
 		<dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-api</artifactId>
